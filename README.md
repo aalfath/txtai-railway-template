@@ -10,7 +10,7 @@ One service built from this repo:
 
 - The official txtai CPU image plus a small start script ([`start.py`](start.py)).
 - A volume at `/data` with the index (`/data/index`), its SQLite content store and graph, the generated config and the Hugging Face model cache (`/data/hf`).
-- A public Railway domain. The health check is `/openapi.json`, which answers without a token.
+- A public Railway domain. The health check is `/docs` (the API docs page), which answers without a token.
 
 Every API route and the MCP endpoint need a bearer token. The service refuses to start without `API_TOKEN`, so the API is never public without auth.
 
