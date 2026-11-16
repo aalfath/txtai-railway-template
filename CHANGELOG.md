@@ -1,5 +1,9 @@
 # Changelog
 
+## 9.14.0-2 (2026-11-16)
+
+- README: Deploy on Railway button for the published template (`txtai`). No change to the service.
+
 ## 9.14.0-1 (2026-11-16)
 
 First release of this template.
