@@ -1,3 +1,5 @@
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/txtai?utm_medium=integration&utm_source=button&utm_campaign=txtai)
+
 # txtai on Railway
 
 One-click Railway template for [txtai](https://github.com/neuml/txtai), the open-source all-in-one embeddings database from NeuML: semantic search, a semantic graph, optional RAG and an MCP server behind one REST API.
